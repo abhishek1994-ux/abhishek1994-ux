@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @abhishek1994-ux
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abhishek Shrivastava.
+- 👀 I’m interested in CLoud related topic
+- 🌱 I’m currently learning Cloud 
+- 💞️ I’m looking to collaborate on MVP and GDE
+- 📫 How to reach me linkedin.com/in/travel4
 
 <!---
 abhishek1994-ux/abhishek1994-ux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
